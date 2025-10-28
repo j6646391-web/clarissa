@@ -1,0 +1,330 @@
+{
+  "6285143227889": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1761276019418,
+      "response": false
+    },
+    "lastCharge": 1761272419418,
+    "cooldown": {
+      "claim": 0,
+      "use": 1,
+      "reset": 1761283704889
+    },
+    "flow": 1,
+    "coins": 1,
+    "name": "Libra ⚖️",
+    "lastChat": 1761283699901
+  },
+  "6285133732969": {
+    "chat": 4553,
+    "role": "Pacar",
+    "energy": 191,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 4,
+      "reset": 1761302323448,
+      "response": false
+    },
+    "lastCharge": 1761272444422,
+    "cooldown": {
+      "claim": 0,
+      "use": 1,
+      "reset": 1761279495225
+    },
+    "flow": 1,
+    "coins": 1,
+    "name": "Primordial Being • άπειρον",
+    "lastChat": 1761299415357,
+    "fswaps": {
+      "list": []
+    }
+  },
+  "6282112686132": {
+    "chat": 9,
+    "role": "Gak kenal",
+    "energy": 204,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 4,
+      "reset": 1761295047309,
+      "response": false
+    },
+    "lastCharge": 1761276921874,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1,
+    "fswaps": {
+      "list": []
+    },
+    "name": "≽^• ˕ • ྀི≼",
+    "lastChat": 1761292993344
+  },
+  "6283114579100": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1761280521887,
+      "response": false
+    },
+    "lastCharge": 1761276921887,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1,
+    "fswaps": {
+      "list": []
+    },
+    "name": "tokek",
+    "lastChat": 1761276922033
+  },
+  "6285810543376": {
+    "chat": 27,
+    "role": "Baru kenal",
+    "energy": 158,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 3,
+      "reset": 1761303466335,
+      "response": false
+    },
+    "lastCharge": 1761284497703,
+    "cooldown": {
+      "claim": 0,
+      "use": 1,
+      "reset": 1761296857818
+    },
+    "flow": 1,
+    "coins": 1,
+    "fswaps": {
+      "list": []
+    },
+    "name": "nayy",
+    "lastChat": 1761299952013
+  },
+  "6288299315675": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1761289396249,
+      "response": false
+    },
+    "lastCharge": 1761285796249,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Mark Peter",
+    "lastChat": 1761285796362
+  },
+  "6283852793896": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1761290096715,
+      "response": false
+    },
+    "lastCharge": 1761286496715,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1,
+    "fswaps": {
+      "list": []
+    },
+    "name": "kay",
+    "lastChat": 1761286496720
+  },
+  "6288211045928": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1761290153497,
+      "response": false
+    },
+    "lastCharge": 1761286553497,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1,
+    "fswaps": {
+      "list": []
+    },
+    "name": "Taki",
+    "lastChat": 1761286553498
+  },
+  "6285782205057": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1761290979366,
+      "response": false
+    },
+    "lastCharge": 1761287379366,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1,
+    "fswaps": {
+      "list": []
+    },
+    "name": "no name",
+    "lastChat": 1761292166652
+  },
+  "6285353896984": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1761294781865,
+      "response": false
+    },
+    "lastCharge": 1761291181865,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1
+  },
+  "6281229309101": {
+    "chat": 1,
+    "role": "Gak kenal",
+    "energy": 200,
+    "chargingSpeed": 1000,
+    "chargeRate": 0.003,
+    "maxCharge": 200,
+    "charging": false,
+    "premium": {
+      "time": 0
+    },
+    "autoai": {
+      "max": 60,
+      "delay": 3600000,
+      "use": 0,
+      "reset": 1761303571928,
+      "response": false
+    },
+    "lastCharge": 1761299971928,
+    "cooldown": {
+      "claim": 0
+    },
+    "flow": 1,
+    "coins": 1,
+    "fswaps": {
+      "list": []
+    },
+    "name": "MCL",
+    "lastChat": 1761299971938
+  }
+}
