@@ -1,0 +1,91 @@
+{
+  "ai_response": 62,
+  "total": 54,
+  "cmd": [
+    {
+      "name": "menu",
+      "use": 6,
+      "times": "24/10 13:02:24"
+    },
+    {
+      "name": "autoai",
+      "use": 7,
+      "times": "24/10 10:32:07"
+    },
+    {
+      "name": "setrole",
+      "use": 2,
+      "times": "24/10 09:17:33"
+    },
+    {
+      "name": "profile",
+      "use": 1,
+      "times": "24/10 09:17:33"
+    },
+    {
+      "name": "getdata",
+      "use": 9,
+      "times": "24/10 13:02:24"
+    },
+    {
+      "name": "set",
+      "use": 15,
+      "times": "24/10 13:02:24"
+    },
+    {
+      "name": "ai",
+      "use": 2,
+      "times": "24/10 09:17:33"
+    },
+    {
+      "name": "stats",
+      "use": 1,
+      "times": "24/10 10:32:07"
+    },
+    {
+      "name": "diskon",
+      "use": 1,
+      "times": "24/10 10:32:07"
+    },
+    {
+      "name": "setthumb",
+      "use": 1,
+      "times": "24/10 10:32:07"
+    },
+    {
+      "name": "bell",
+      "use": 1,
+      "times": "24/10 10:32:07"
+    },
+    {
+      "name": "addowner",
+      "use": 1,
+      "times": "24/10 10:32:07"
+    },
+    {
+      "name": "listrespon",
+      "use": 1,
+      "times": "24/10 13:02:24"
+    },
+    {
+      "name": "setdata",
+      "use": 1,
+      "times": "24/10 13:02:24"
+    },
+    {
+      "name": "pin",
+      "use": 1,
+      "times": "24/10 13:02:24"
+    },
+    {
+      "name": "ytmp4",
+      "use": 1,
+      "times": "24/10 13:02:24"
+    },
+    {
+      "name": "ytdl",
+      "use": 3,
+      "times": "24/10 13:02:24"
+    }
+  ]
+}
